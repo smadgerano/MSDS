@@ -39,7 +39,7 @@ Audio Sends are used instead of Direct Routing as they are a little more flexibl
 
 Download the [Multiband Sound Design & Sampling (MSDS).cpr](https://github.com/smadgerano/MSDS/blob/master/Multiband%20Sound%20Design%20%26%20Sampling%20(MSDS).cpr) file from GitHub, and save it to the relevant folder on your machine.
 
-On Windows this is here here...
+On Windows this is here...
 
 `C:\Users\yourusername\AppData\Roaming\Steinberg\Cubase 10.5_64\Project Templates`
 
