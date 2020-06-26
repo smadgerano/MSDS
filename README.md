@@ -37,7 +37,7 @@ Audio Sends are used instead of Direct Routing as they are a little more flexibl
 
 ## Installation
 
-Download the **Multiband Sound Design & Sampling (MSDS).cpr** file from GitHub, and save it to the relevant folder on your machine.
+Download the [Multiband Sound Design & Sampling (MSDS).cpr](https://github.com/smadgerano/MSDS/blob/master/Multiband%20Sound%20Design%20%26%20Sampling%20(MSDS).cpr) file from GitHub, and save it to the relevant folder on your machine.
 
 On Windows this is here here...
 
