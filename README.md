@@ -131,7 +131,7 @@ There are a number of ways to route the existing MIDI data, the most basic invol
 
 ![MIDI Sends](/img/midi-sends.png?raw=true)
 
-If you want a specif audio sample to trigger for each note, the easiest way to do this is to import it as a Sampler TRack and route the existing MIDI to it. Otherwise you will need to duplicate the audio segment for each note you want to export.
+If you want a specific audio sample to trigger for each note, the easiest way to do this is to import it as a Sampler Track and route the existing MIDI to it. Otherwise you will need to duplicate the audio segment for each note you want to export.
 
 ## Altering Sample Capture Lengths
 
